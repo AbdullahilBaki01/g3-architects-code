@@ -162,6 +162,16 @@ margin-right: 30px;
  }
 /* sponsor related info ends here */
 
+/* footer style starts here */
+footer{
+    margin-top: 60px;
+}
+footer p{
+    text-align: center;
+    background-color: #FFF4E7;
+    padding:30px ;
+}
+
 /* Responsive Media Query for small device */
 @media screen and (max-width: 576px) {
     .navbar,
